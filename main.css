@@ -1,0 +1,44 @@
+body {
+  font-family: "Georgia", "times", serif;
+  color: #aaf; }
+
+.primarytypeface {
+  font-family: "Georgia", "times", serif; }
+
+.secondarytypeface {
+  font-family: "Helvetica", serif; }
+
+.primarycolor {
+  color: #333333; }
+
+.primaryhover {
+  color: #222222; }
+
+.secundary {
+  color: #838C91; }
+
+.secundaryhover {
+  color: #676D70; }
+
+.sizeh1 {
+  font-size: 48px; }
+
+.sizeh2 {
+  font-size: 40px; }
+
+.sizeh3 {
+  font-size: 32px; }
+
+.sizeh4 {
+  font-size: 24px; }
+
+.sizeh5 {
+  font-size: 20px; }
+
+.sizeh6 {
+  font-size: 14px; }
+
+.parrafos {
+  font-size: 14px; }
+
+/*# sourceMappingURL=main.css.map */

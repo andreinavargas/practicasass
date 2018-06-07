@@ -1,0 +1,58 @@
+@import 'variables';
+
+body {
+  font-family: $font-family;
+  color: $font-color;
+}
+
+.primarytypeface {
+font-family: $font-family;
+}
+
+.secondarytypeface {
+font-family: $font-family2;
+}
+
+.primarycolor {
+color: #333333;
+}
+
+.primaryhover {
+color: #222222;
+}
+
+.secundary {
+color: #838C91;
+}
+
+.secundaryhover {
+color: #676D70;
+}
+
+.sizeh1 {
+font-size: 48px;
+}
+
+.sizeh2 {
+font-size: 40px;
+}
+
+.sizeh3 {
+font-size: 32px;
+}
+
+.sizeh4 {
+font-size: 24px;
+}
+
+.sizeh5 {
+font-size: 20px;
+}
+
+.sizeh6 {
+font-size: 14px;
+}
+
+.parrafos {
+font-size: 14px;
+}
